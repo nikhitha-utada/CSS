@@ -1,4 +1,4 @@
-/* #outer-box{
+#outer-box{
     height: 400px;
     width: 400px;
     border: 2px solid black;
@@ -27,14 +27,12 @@
     position: absolute;
     bottom: 0px;
     right: 0px;
-} */
-/* .tooltip-container{
+} 
+.tooltip-container{
     height: 200px;
     width: 200px;
     border: 1px solid black;
     position: relative;
-
-
 }
 .tooltip{
     position: absolute;
@@ -48,10 +46,10 @@
     height: 40px;
     position: absolute;
     top: 80px;
-    left: 60px; */
-/* } */
+    left: 60px; 
+} 
 
-.avatar-container{
+ .avatar-container{
     height:300px;
     width: 200px;
     border: 2px solid black;
@@ -64,4 +62,18 @@
     position: absolute;
     top: 0px;
     right: 0px;
+}
+.image-container{
+    height: 400px;
+    border: 2px solid black;
+    width: 300px;
+    position: relative;
+
+}
+.overlay{
+    height: 300px;
+    width: 300px;   
+     background-color: #5c9e4e;
+     position: absolute;
+     top: 0;
 }
