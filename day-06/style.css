@@ -1,0 +1,62 @@
+.container{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.container span{
+    padding-right: 40px;
+}
+.bi{
+    font-size: 20px;
+}
+
+.zoom{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+.zoom2 p{
+    display: inline-block;
+}
+.zoom2{
+    display: flex;
+    justify-content: center;
+}
+.zoom2 .bi{
+    font-size: 15px;
+    margin: 10px;
+}
+.zoom21{
+    background-color: lime;
+}
+.item-7{
+    background-color: grey;
+}
+.bi-three-dots{
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 2px;
+}
+.zoom22{
+    width: 150px;
+    background-color: red;
+    color: white;
+}
+.task-3{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+
+h2{
+    color: rgb(133, 42, 57);
+}
+
