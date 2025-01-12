@@ -47,7 +47,7 @@ body{
    }
    .open{
     position: absolute;
-    top: 70%;
+    top: 80%;
     left: 3%;
     color: white;
     background: #000;
@@ -55,7 +55,7 @@ body{
    }
    .add{
     position: absolute;
-    top: 70%;
+    top: 80%;
     right: 3%;
     color: white;
     background: #000;
